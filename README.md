@@ -1,6 +1,9 @@
 # LogisticsShippingRates
 Please consider the below factors while contributing
 
+I am editing the README file. Adding some more details about the project description.
+
+
 Code Style:
 Maintain a consistent code style for readability.
 
